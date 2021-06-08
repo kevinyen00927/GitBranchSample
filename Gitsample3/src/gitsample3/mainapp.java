@@ -20,7 +20,7 @@ class Math{
 		return a+b;
 	}
 	
-	
+	//§A¦n
 	
 	
 }
