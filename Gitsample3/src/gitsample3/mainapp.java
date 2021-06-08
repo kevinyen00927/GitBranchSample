@@ -20,7 +20,7 @@ class Math{
 		return a+b;
 	}
 	
-	//你好s
+	//你好
 	
 	
 }
